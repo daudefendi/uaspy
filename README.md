@@ -18,4 +18,8 @@ lakukan Pip di pycharm dengan cara buka pycharm lalu klik di pojok kiri bawah un
 
 # ![D](https://user-images.githubusercontent.com/46699723/55847381-42b47480-5b73-11e9-86d3-65012186f31e.jpg)
 
+Langkah 3
+# Virtual Environtment
+Untuk membuat virtual environtment, kita klik file -> new project -> Pure python -> klik new environtment using . lihat gambar dibawah ini.
+
 # ![E](https://user-images.githubusercontent.com/46699723/55847384-447e3800-5b73-11e9-8ebc-9d237169f060.jpg)
